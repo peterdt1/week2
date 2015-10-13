@@ -10,4 +10,4 @@ Reading material:
 * Problem 3.8: PolynomialFit
 
 ### Homework
-* Chapter 2 DIY: AMWave
+* Chapter 3 DIY: AMWave (p 146)
